@@ -1,0 +1,396 @@
+========================================
+       GLOBAL ASSETS SETTLEMENT
+       ACCOUNT ID: ACCOUNT_BETA
+       PERIOD: 2025-11-01 TO 2025-11-30
+========================================
+
+>>> PROVIDER: DIGITAL ASSETS TYPE 1 (POINTS)
+----------------------------------------
+DATE: 2025-11-01
+50 PTS: 1 units ---> Subtotal: 50 points
+100 PTS: 1 units ---> Subtotal: 100 points
+
+TOTAL TYPE 1: 150 PTS ---> 1.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-02
+150 PTS: 1 units ---> Subtotal: 150 points
+
+TOTAL TYPE 1: 150 PTS ---> 1.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-03
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 200 PTS ---> 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-04
+100 PTS: 2 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 200 PTS ---> 2.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-05
+50 PTS: 2 units ---> Subtotal: 100 points
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 300 PTS ---> 3.00 $
+TOTAL TASKS: 3
+
+----------------------------------------
+DATE: 2025-11-07
+150 PTS: 2 units ---> Subtotal: 300 points
+
+TOTAL TYPE 1: 300 PTS ---> 3.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-08
+100 PTS: 2 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 200 PTS ---> 2.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-09
+100 PTS: 1 units ---> Subtotal: 100 points
+
+TOTAL TYPE 1: 100 PTS ---> 1.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-10
+100 PTS: 1 units ---> Subtotal: 100 points
+
+TOTAL TYPE 1: 100 PTS ---> 1.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-11
+150 PTS: 1 units ---> Subtotal: 150 points
+
+TOTAL TYPE 1: 150 PTS ---> 1.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-12
+100 PTS: 1 units ---> Subtotal: 100 points
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 300 PTS ---> 3.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-13
+100 PTS: 1 units ---> Subtotal: 100 points
+
+TOTAL TYPE 1: 100 PTS ---> 1.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-14
+100 PTS: 1 units ---> Subtotal: 100 points
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 300 PTS ---> 3.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-15
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 200 PTS ---> 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-16
+200 PTS: 1 units ---> Subtotal: 200 points
+150 PTS: 1 units ---> Subtotal: 150 points
+
+TOTAL TYPE 1: 350 PTS ---> 3.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-17
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 200 PTS ---> 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-18
+50 PTS: 1 units ---> Subtotal: 50 points
+
+TOTAL TYPE 1: 50 PTS ---> 0.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-19
+200 PTS: 1 units ---> Subtotal: 200 points
+50 PTS: 1 units ---> Subtotal: 50 points
+
+TOTAL TYPE 1: 250 PTS ---> 2.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-20
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 200 PTS ---> 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-22
+100 PTS: 1 units ---> Subtotal: 100 points
+50 PTS: 1 units ---> Subtotal: 50 points
+
+TOTAL TYPE 1: 150 PTS ---> 1.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-23
+150 PTS: 1 units ---> Subtotal: 150 points
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 350 PTS ---> 3.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-26
+150 PTS: 1 units ---> Subtotal: 150 points
+
+TOTAL TYPE 1: 150 PTS ---> 1.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-27
+100 PTS: 1 units ---> Subtotal: 100 points
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 300 PTS ---> 3.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-28
+150 PTS: 1 units ---> Subtotal: 150 points
+
+TOTAL TYPE 1: 150 PTS ---> 1.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-30
+150 PTS: 1 units ---> Subtotal: 150 points
+200 PTS: 1 units ---> Subtotal: 200 points
+
+TOTAL TYPE 1: 350 PTS ---> 3.50 $
+TOTAL TASKS: 2
+
+
+>>> PROVIDER: DIGITAL ASSETS TYPE 2 (DIRECT USD)
+----------------------------------------
+DATE: 2025-11-01
+1 $: 1 units ---> Subtotal: 1 $
+0.5 $: 1 units ---> Subtotal: 0.5 $
+
+TOTAL TYPE 2: 1.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-02
+0.5 $: 1 units ---> Subtotal: 0.5 $
+
+TOTAL TYPE 2: 0.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-03
+0.5 $: 1 units ---> Subtotal: 0.5 $
+
+TOTAL TYPE 2: 0.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-04
+0.5 $: 1 units ---> Subtotal: 0.5 $
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 2.50 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-05
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-06
+0.75 $: 2 units ---> Subtotal: 1.5 $
+1.5 $: 1 units ---> Subtotal: 1.5 $
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 5.00 $
+TOTAL TASKS: 4
+
+----------------------------------------
+DATE: 2025-11-07
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-08
+2 $: 1 units ---> Subtotal: 2 $
+0.75 $: 1 units ---> Subtotal: 0.75 $
+
+TOTAL TYPE 2: 2.75 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-09
+1.5 $: 1 units ---> Subtotal: 1.5 $
+
+TOTAL TYPE 2: 1.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-10
+2 $: 2 units ---> Subtotal: 4 $
+0.75 $: 1 units ---> Subtotal: 0.75 $
+
+TOTAL TYPE 2: 4.75 $
+TOTAL TASKS: 3
+
+----------------------------------------
+DATE: 2025-11-11
+0.5 $: 1 units ---> Subtotal: 0.5 $
+
+TOTAL TYPE 2: 0.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-13
+1.5 $: 1 units ---> Subtotal: 1.5 $
+0.5 $: 1 units ---> Subtotal: 0.5 $
+
+TOTAL TYPE 2: 2.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-15
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-16
+0.75 $: 1 units ---> Subtotal: 0.75 $
+
+TOTAL TYPE 2: 0.75 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-17
+1 $: 1 units ---> Subtotal: 1 $
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 3.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-18
+1 $: 1 units ---> Subtotal: 1 $
+
+TOTAL TYPE 2: 1.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-20
+1 $: 1 units ---> Subtotal: 1 $
+
+TOTAL TYPE 2: 1.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-21
+2 $: 2 units ---> Subtotal: 4 $
+1 $: 1 units ---> Subtotal: 1 $
+
+TOTAL TYPE 2: 5.00 $
+TOTAL TASKS: 3
+
+----------------------------------------
+DATE: 2025-11-22
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 2.00 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-23
+1.5 $: 1 units ---> Subtotal: 1.5 $
+
+TOTAL TYPE 2: 1.50 $
+TOTAL TASKS: 1
+
+----------------------------------------
+DATE: 2025-11-24
+0.5 $: 2 units ---> Subtotal: 1 $
+1.5 $: 1 units ---> Subtotal: 1.5 $
+0.75 $: 1 units ---> Subtotal: 0.75 $
+
+TOTAL TYPE 2: 3.25 $
+TOTAL TASKS: 4
+
+----------------------------------------
+DATE: 2025-11-25
+1.5 $: 2 units ---> Subtotal: 3 $
+2 $: 1 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 5.00 $
+TOTAL TASKS: 3
+
+----------------------------------------
+DATE: 2025-11-26
+1 $: 2 units ---> Subtotal: 2 $
+
+TOTAL TYPE 2: 2.00 $
+TOTAL TASKS: 2
+
+----------------------------------------
+DATE: 2025-11-28
+1.5 $: 1 units ---> Subtotal: 1.5 $
+1 $: 1 units ---> Subtotal: 1 $
+0.5 $: 1 units ---> Subtotal: 0.5 $
+
+TOTAL TYPE 2: 3.00 $
+TOTAL TASKS: 3
+
+----------------------------------------
+DATE: 2025-11-29
+2 $: 1 units ---> Subtotal: 2 $
+0.75 $: 1 units ---> Subtotal: 0.75 $
+
+TOTAL TYPE 2: 2.75 $
+TOTAL TASKS: 2
+
+========================================
+           FINANCIAL SUMMARY
+========================================
+RAW ASSETS TOTAL:      110.25 $
+LIQUIDATED (USDT):     82.69 USDT
+MARKET RATE APPLIED:   550.71 VES/USDT
+----------------------------------------
+YOUR FEE (10%):        4553.67 VES (15.44 $ BCV)
+OWNER PAYOUT:          40983.06 VES (138.94 $ BCV)
+OFFICIAL BCV RATE:     294.97 VES
+========================================
+
